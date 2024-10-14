@@ -1,7 +1,9 @@
 h1{
 font-size: 14;
 }
-
+a{
+  text-align: right;
+}
 h2{
 color: black;
 }
