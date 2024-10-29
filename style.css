@@ -10,12 +10,4 @@ color: green;
 h4{
 text-align: center;
 }
-hr   {
-  display: block;
-  margin-top: 100em;
-  margin-bottom: 100em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 100px;
-}
+
