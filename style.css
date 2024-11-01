@@ -10,4 +10,7 @@ color: green;
 h4{
 text-align: center;
 }
-
+hr{
+  border: 10px solid green;
+  border-radius: 5px;
+}
