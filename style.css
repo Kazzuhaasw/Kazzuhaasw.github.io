@@ -2,15 +2,19 @@ a{
   text-align: right;
   text-decoration: none;
   color: green;
+  font-weight: bold;
 }
 h2  {
 color: white;
+  font-weight: bold;
 }
 p {
 color: green;
+  font-weight: bold;
 {
 h4{
 text-align: center;
+  font-weight: bold;
 }
 .new1 {
 width: 100%;
